@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Mollabashi"
 authors:
 - admin
 - Robert Ford
